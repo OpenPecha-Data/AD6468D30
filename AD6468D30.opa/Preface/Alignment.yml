@@ -1,0 +1,13 @@
+segment_sources:
+  P7ADD2815:
+    type: origin_type
+    relation: translation
+    language: sa
+  PC6FBCCB8:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  637bbc92cb89417995ff9d1f94a25e9a:
+    P7ADD2815: None
+    PC6FBCCB8: ae418a93adf54b068431bbe3336c75fc
